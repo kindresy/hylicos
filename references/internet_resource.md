@@ -4,8 +4,8 @@
 
 [从零开始构建嵌入式实时操作系统1——任务切换_liyinuo2017的博客-CSDN博客_自己动手从0到1写嵌入式操作系统](https://blog.csdn.net/li_man_man_man/article/details/123026433)
 
-
-
 [自己动手从0到1写嵌入式操作系统-李述铜-专题视频课程_李述铜的博客-CSDN博客](https://blog.csdn.net/oLiShuTong/article/details/83575921)
 
 （付费视频 价格300 哔哩哔哩 - 这个有相应的视频教程）
+
+[[zz\]Linux 内核 C 编程规范 - zaleilynn - 博客园 (cnblogs.com)](https://www.cnblogs.com/zhangzhang/archive/2013/01/09/2853833.html)
